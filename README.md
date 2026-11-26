@@ -57,3 +57,22 @@ This repository contains project information and documentation only.
 The extension's source code is maintained privately and is not published under an open-source license.
 
 All rights reserved.
+## 🚀 Upcoming Update — Version 1.6.6
+
+### Precision Loop Editing Update
+
+- Manual editing of A and B timestamps.
+- Timestamp input with two decimal places.
+- Fine-tuning controls in ±0.1-second steps.
+- Editing of previously saved loops.
+- Improved handling of multiple loop segments.
+- No additional permissions required.
+
+This update was inspired by community feedback.
+
+### Release status
+
+- Google Chrome: Version 1.6.6 under review.
+- Microsoft Edge: Version 1.6.6 under review.
+
+Thank you for helping improve YT Loop!
